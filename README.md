@@ -21,7 +21,7 @@
 
 ---
 
-### Usuful Informations - Versions 
+### Useful Informations - Versions 
 
 1. [Hadoop 2.7.7](https://hadoop.apache.org/)
 2. [Python 3.8.0](https://www.python.org/)
