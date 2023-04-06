@@ -7,17 +7,17 @@
 
 ---
 
-- Τα αρχεία python για την εκτέλεση όλων των ερωτημάτων βρίσκονται στον φάκελo [scripts](https://github.com/ValantisAndreas/Advanced-DB/tree/master/scripts).
+- The python files to run all the queries are in the [scripts](https://github.com/john-papani/advanced_db/tree/master/scripts) folder.
 
-- Οδηγίες εγκατάστησης βρίσκονται στην [αναφορά](https://github.com/ValantisAndreas/Advanced-DB/blob/master/report.pdf).
+- Installation instructions are at [report](https://github.com/john-papani/advanced_db/blob/master/report.pdf). These instructions explain how we created a cluster network in [Okeanos-Knosos](https://okeanos-knossos.grnet.gr/home/) compromised of 2 VMs to run the experiments needed for the completion of the project.
 
-- Τα αποτελεσμάτα των ερωτημάτων βρίσκονται στο αρχείο [output.txt](https://github.com/ValantisAndreas/Advanced-DB/blob/master/outputs.txt).
-- Οι χρόνοι εκτέλεσης των ερωτημάτων βρίσκονται στο αρχείο [query_exec_times.txt](https://github.com/ValantisAndreas/Advanced-DB/blob/master/query_exec_times.txt).
+- Query results are in the [output.txt](https://github.com/john-papani/advanced_db/blob/master/outputs.txt) file.
+- Query execution times are located in [query_exec_times.txt](https://github.com/john-papani/advanced_db/blob/master/query_exec_times.txt) file.
 
 --- 
 
-Για την υλοποίηση της εργασίας αξιοποίηθηκαν δεδομένα  διαδρομών ταξί (TLC) της Νές Υόρκης για το διάστημα _1/22 - 6/22_. <br>
-Τα δεδομένα είναι δημόσια διαθέσιμα [εδώ](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+For the implementation of the current project, taxi route data (TLC) of New York for the period _1/22 - 6/22_ <br> were used.
+The data is publicly available [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 ---
 
